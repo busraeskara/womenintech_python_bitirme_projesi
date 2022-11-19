@@ -1,4 +1,4 @@
-# womenintech_python_bitirme_projesi
+
 
 Bu repoda, Women in Tech Academy bitirme projesi yer almaktadır.
 
